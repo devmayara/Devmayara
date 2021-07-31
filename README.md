@@ -1,8 +1,8 @@
 ## Olá, Eu sou Mayara G. Silva 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSilva&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSilva&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![html5-50](https://user-images.githubusercontent.com/87142746/127499385-e18076fd-08d0-42f8-844a-ae5f8bb5aa37.png)
 ![css3-50](https://user-images.githubusercontent.com/87142746/127499396-d1df3c36-cfba-4af0-b881-c57c68f5858b.png)
