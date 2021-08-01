@@ -1,8 +1,10 @@
-## Olá, Eu sou Mayara G. Silva 👋
+### Olá, Eu sou Mayara G. Silva 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/devmayara">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical" />
+</div>
 
 ### Skills :nerd_face:
 ![html5-50](https://user-images.githubusercontent.com/87142746/127499385-e18076fd-08d0-42f8-844a-ae5f8bb5aa37.png)
@@ -21,6 +23,4 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/devmayara/count.svg" />
  </p>
-
-</p>
 -->
