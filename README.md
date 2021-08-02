@@ -1,15 +1,31 @@
-### Olá, Eu sou Mayara G. Silva 👋
+### Olá! 👋
+
+## Eu sou Mayara G. Silva :nerd_face:
+
+Tenho muita curiosidade e vontade de aprender sobre novas tecnologias em geral. <br>
+Pretendo um dia me tornar uma Desenvolvedora Sênior Full Stack! <br><br>
+
 
 <div>
-  <a href="https://github.com/devmayara">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical" />
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ### Skills :nerd_face:
-![html5-50](https://user-images.githubusercontent.com/87142746/127499385-e18076fd-08d0-42f8-844a-ae5f8bb5aa37.png)
-![css3-50](https://user-images.githubusercontent.com/87142746/127499396-d1df3c36-cfba-4af0-b881-c57c68f5858b.png)
-![javascript-50](https://user-images.githubusercontent.com/87142746/127499406-e33f1034-82e1-4ec7-8671-3f47158b991d.png)
+<p>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" alt="spring">  
+</p>
 
 ### Contato :iphone:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-g-silva-048707217)
