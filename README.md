@@ -8,8 +8,8 @@ Pretendo um dia me tornar uma Desenvolvedora Sênior Full Stack! <br><br>
 
  <div>
   <a href="https://github.com/devmayara">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ### Skills :nerd_face:
