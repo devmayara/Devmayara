@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-## Eu sou Mayara G. Silva :nerd_face:
+## Eu sou Mayara Silva :nerd_face:
 
 Tenho muita curiosidade e vontade de aprender sobre novas tecnologias em geral. <br>
 Pretendo um dia me tornar uma Desenvolvedora Sênior Full Stack! <br><br>
