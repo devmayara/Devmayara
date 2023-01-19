@@ -1,17 +1,17 @@
-### Olá! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e6ff4&height=120&section=header"/>
 
-## Eu sou Mayara Silva :nerd_face:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e6ff4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mayara+Silva;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Tenho muita curiosidade e vontade de aprender sobre novas tecnologias em geral. <br>
-Pretendo um dia me tornar uma Desenvolvedora Sênior Full Stack! <br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devmayara&bg_color=0d1117&color=fcfcfc&line=ffffff&point=8ea9fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- <div>
+<div align="center">
   <a href="https://github.com/devmayara">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devmayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayara&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br><br><br>
 ### Skills :nerd_face:
 <p>
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
@@ -45,19 +45,35 @@ Pretendo um dia me tornar uma Desenvolvedora Sênior Full Stack! <br><br>
     <img height="40" src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" alt="spring">  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
 </p>
 
-### Contato :iphone:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/devmayara)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmayara)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devmayara)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:devmayara11@gmail.com)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/devmayara)
-
+<br><br><br>
+<div align="center"> 
+<a href="https://www.instagram.com/devmayara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.t.me/devmayara" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href = "https://mailto:devmayara11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/devmayara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
 <!--
-### Total de Visitas no Perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/devmayara/count.svg" />
- </p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devmayara}/count.svg" /></p> 
+<br>
+</div>
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e6ff4&height=120&section=footer"/>
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
