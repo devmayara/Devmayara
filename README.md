@@ -20,7 +20,7 @@
   <img align="center" src="https://img.icons8.com/color/40/000000/bootstrap.png">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://laravel.com/img/logomark.min.svg">
-<!--   <img align="center" height="30" width="40" src="https://www.yiiframework.com/image/logo.svg"> -->
+  <img align="center" height="30" width="40" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
