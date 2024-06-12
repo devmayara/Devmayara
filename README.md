@@ -16,20 +16,30 @@
   <img align="center" height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" title="Bootstrap" src="https://img.icons8.com/color/40/000000/bootstrap.png">
+  <img align="center" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="30" width="40" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" height="30" width="40" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" title="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
+  <img align="center" height="30" width="40" title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" height="30" width="40" title="Laravel" src="https://laravel.com/img/logomark.min.svg">
-  <img align="center" height="30" width="40" title="Yii2 Framework" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png">
-  <img align="center" height="30" width="40" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="center" height="30" width="40" title="Yii2 Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg">
   <img align="center" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
   <img align="center" height="30" width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="center" height="30" width="40" title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" height="30" width="40" title="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" height="30" width="40" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
+  <img align="center" height="30" width="40" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  <img align="center" height="40" width="40" title="Jasper Reports" src="https://www.4x-treme.com/wp-content/uploads/2022/01/download-removebg-preview.png">
   <img align="center" height="30" width="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
